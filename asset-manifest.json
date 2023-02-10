@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maryia1987/demo-socialNetwork/static/css/main.10be955a.css",
+    "main.js": "/maryia1987/demo-socialNetwork/static/js/main.29658027.js",
+    "static/css/31.7358c7f8.chunk.css": "/maryia1987/demo-socialNetwork/static/css/31.7358c7f8.chunk.css",
+    "static/js/31.12bf134f.chunk.js": "/maryia1987/demo-socialNetwork/static/js/31.12bf134f.chunk.js",
+    "static/js/787.9c4083a9.chunk.js": "/maryia1987/demo-socialNetwork/static/js/787.9c4083a9.chunk.js",
+    "static/media/ava.jpg": "/maryia1987/demo-socialNetwork/static/media/ava.74c093d5f1ecf88eb8b5.jpg",
+    "static/media/photoProfile.jpg": "/maryia1987/demo-socialNetwork/static/media/photoProfile.dba46494bc983c68beac.jpg",
+    "static/media/loader.svg": "/maryia1987/demo-socialNetwork/static/media/loader.be9c626689f1e2fecf22e0f085d0f549.svg",
+    "index.html": "/maryia1987/demo-socialNetwork/index.html",
+    "main.10be955a.css.map": "/maryia1987/demo-socialNetwork/static/css/main.10be955a.css.map",
+    "main.29658027.js.map": "/maryia1987/demo-socialNetwork/static/js/main.29658027.js.map",
+    "31.7358c7f8.chunk.css.map": "/maryia1987/demo-socialNetwork/static/css/31.7358c7f8.chunk.css.map",
+    "31.12bf134f.chunk.js.map": "/maryia1987/demo-socialNetwork/static/js/31.12bf134f.chunk.js.map",
+    "787.9c4083a9.chunk.js.map": "/maryia1987/demo-socialNetwork/static/js/787.9c4083a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10be955a.css",
+    "static/js/main.29658027.js"
+  ]
+}
