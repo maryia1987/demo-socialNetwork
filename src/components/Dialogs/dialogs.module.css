@@ -1,0 +1,70 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialogItems {
+   padding: 10px 70px 10px 10px; 
+   border-right: 3px solid grey;
+   margin: 10px; 
+}
+
+.dialog {
+   display: flex;
+   align-items: center;     
+   padding: 10px;   
+}
+.dialog a {
+   text-decoration: none;
+   color:black;
+   font-size: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dialog.active {
+    color:rgb(245, 77, 189);
+}
+
+.messages {
+   padding: 20px;
+}
+
+.message {
+   padding: 10px;
+}
+
+.dialog_ava {
+   width: 50px;
+   height: 50px;
+   border-radius: 50px;
+   background-color:rgb(211, 132, 253);
+   border: 1px solid black;
+   margin-right: 10px;
+}
+
+.form {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.area {
+   margin: 20px 20px 20px 5px;
+   width: 500px;
+   height: 100px;
+   background-color: rgba(193, 55, 203, 0.1);
+   border-radius: 5px;
+   border: 1px solid rgb(164, 4, 200);
+}
+
+.button {
+   width: 200px;
+   height: 50px;
+   background-color:rgb(164, 4, 200);
+   border-radius: 30px;
+   border: 1px solid rgb(164, 4, 200);
+   color: white;
+   font-size: 22px;
+   font-weight: 400;
+   cursor: pointer;
+}

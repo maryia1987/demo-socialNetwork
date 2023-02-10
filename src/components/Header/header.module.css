@@ -1,0 +1,35 @@
+.header {  
+    grid-area: header;
+    background-color:rgb(252, 252, 252);   
+  }
+  .header img {
+    width: 80px;
+  }
+
+.loginBlock {  
+ float: right; 
+ padding-right: 10px;
+ padding-top: 5px;
+}
+.loginBlock a {
+  color: blueviolet;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.loginBtn {
+  width: 80px;
+  height: 25px;
+  background-color: rgb(164, 4, 200);
+  color: white;
+  border: 1px solid rgb(164, 4, 200);
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.loginName {
+  color: blueviolet;
+  font-size: 18px;
+  font-weight: 500;
+}

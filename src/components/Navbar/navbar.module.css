@@ -1,0 +1,30 @@
+.nav {
+    grid-area: nav;
+    background-color:rgba(206, 120, 255, 0.5);
+    border-radius: 5px;
+  }
+
+  .item {
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .item:first-child {
+    padding-top: 10px;
+  }
+  .item:nth-child(6) {
+    padding-top: 20px;
+  }
+  .item:nth-child(7) {
+    padding-top: 100px;
+    text-align: center;
+  }
+
+  .item a {
+    text-decoration: none;
+    color: black;
+  }
+  .item a.active {
+    color:rgb(158, 5, 214);
+  }

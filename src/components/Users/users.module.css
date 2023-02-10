@@ -1,0 +1,29 @@
+.usersContent {
+    display: flex; 
+    padding: 10px;   
+}
+
+.usersAva {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.usersInfo {
+    padding: 10px;
+}
+
+.userPhoto {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.followButton {
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(211, 132, 253);
+    border: 1px solid black;
+    cursor: pointer;
+}
